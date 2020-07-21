@@ -22,6 +22,10 @@ Node classes list of saas provider.
 - **diagrams.saas.chat.Slack**
 - **diagrams.saas.chat.Telegram**
 
+## saas.gsuite
+
+- **diagrams.saas.gsuite.Calendar**
+
 ## saas.identity
 
 - **diagrams.saas.identity.Auth0**
