@@ -12,4 +12,8 @@ class Datacenter(_Place):
     _icon = "datacenter.png"
 
 
+class Door(_Place):
+    _icon = "door.png"
+
+
 # Aliases

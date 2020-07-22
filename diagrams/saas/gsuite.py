@@ -8,6 +8,10 @@ class _Gsuite(_Saas):
     _icon_dir = "resources/saas/gsuite"
 
 
+class Admin(_Gsuite):
+    _icon = "admin.png"
+
+
 class Calendar(_Gsuite):
     _icon = "calendar.png"
 

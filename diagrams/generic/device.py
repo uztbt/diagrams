@@ -12,6 +12,10 @@ class Mobile(_Device):
     _icon = "mobile.png"
 
 
+class NfcTag(_Device):
+    _icon = "nfc-tag.png"
+
+
 class Tablet(_Device):
     _icon = "tablet.png"
 

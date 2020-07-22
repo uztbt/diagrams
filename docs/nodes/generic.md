@@ -20,6 +20,7 @@ Node classes list of generic provider.
 ## generic.device
 
 - **diagrams.generic.device.Mobile**
+- **diagrams.generic.device.NfcTag**
 - **diagrams.generic.device.Tablet**
 
 ## generic.network
@@ -42,6 +43,7 @@ Node classes list of generic provider.
 ## generic.place
 
 - **diagrams.generic.place.Datacenter**
+- **diagrams.generic.place.Door**
 
 ## generic.storage
 

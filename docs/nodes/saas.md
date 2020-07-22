@@ -24,6 +24,7 @@ Node classes list of saas provider.
 
 ## saas.gsuite
 
+- **diagrams.saas.gsuite.Admin**
 - **diagrams.saas.gsuite.Calendar**
 
 ## saas.identity
