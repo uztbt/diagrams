@@ -11,6 +11,7 @@ Node classes list of gcp provider.
 - **diagrams.gcp.analytics.Composer**
 - **diagrams.gcp.analytics.DataCatalog**
 - **diagrams.gcp.analytics.DataFusion**
+- **diagrams.gcp.analytics.DataStudio**
 - **diagrams.gcp.analytics.Dataflow**
 - **diagrams.gcp.analytics.Datalab**
 - **diagrams.gcp.analytics.Dataprep**

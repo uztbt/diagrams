@@ -24,6 +24,10 @@ class DataFusion(_Analytics):
     _icon = "data-fusion.png"
 
 
+class DataStudio(_Analytics):
+    _icon = "data-studio.png"
+
+
 class Dataflow(_Analytics):
     _icon = "dataflow.png"
 
