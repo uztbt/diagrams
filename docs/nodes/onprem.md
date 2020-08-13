@@ -39,6 +39,7 @@ Node classes list of onprem provider.
 ## onprem.client
 
 - **diagrams.onprem.client.Client**
+- **diagrams.onprem.client.PcDashboard**
 - **diagrams.onprem.client.User**
 - **diagrams.onprem.client.Users**
 

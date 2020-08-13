@@ -12,6 +12,10 @@ class Client(_Client):
     _icon = "client.png"
 
 
+class PcDashboard(_Client):
+    _icon = "pc-dashboard.png"
+
+
 class User(_Client):
     _icon = "user.png"
 

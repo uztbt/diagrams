@@ -8,6 +8,10 @@ class _Storage(_Generic):
     _icon_dir = "resources/generic/storage"
 
 
+class Datalake(_Storage):
+    _icon = "datalake.png"
+
+
 class Storage(_Storage):
     _icon = "storage.png"
 

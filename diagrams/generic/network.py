@@ -12,6 +12,10 @@ class Firewall(_Network):
     _icon = "firewall.png"
 
 
+class Rest(_Network):
+    _icon = "rest.png"
+
+
 class Router(_Network):
     _icon = "router.png"
 

@@ -23,9 +23,16 @@ Node classes list of generic provider.
 - **diagrams.generic.device.NfcTag**
 - **diagrams.generic.device.Tablet**
 
+## generic.geometry
+
+- **diagrams.generic.geometry.Arrow**
+- **diagrams.generic.geometry.Change**
+- **diagrams.generic.geometry.Zigzag**
+
 ## generic.network
 
 - **diagrams.generic.network.Firewall**
+- **diagrams.generic.network.Rest**
 - **diagrams.generic.network.Router**
 - **diagrams.generic.network.Switch**
 - **diagrams.generic.network.VPN**
@@ -47,6 +54,7 @@ Node classes list of generic provider.
 
 ## generic.storage
 
+- **diagrams.generic.storage.Datalake**
 - **diagrams.generic.storage.Storage**
 
 ## generic.virtualization
@@ -54,3 +62,7 @@ Node classes list of generic provider.
 - **diagrams.generic.virtualization.Virtualbox**
 - **diagrams.generic.virtualization.Vmware**
 - **diagrams.generic.virtualization.XEN**
+
+## generic.visualization
+
+- **diagrams.generic.visualization.Graph**
