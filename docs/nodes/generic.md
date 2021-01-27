@@ -9,6 +9,10 @@ Node classes list of generic provider.
 
 - **diagrams.generic.blank.Blank**
 
+## generic.cms
+
+- **diagrams.generic.cms.Ghost**
+
 ## generic.compute
 
 - **diagrams.generic.compute.Rack**
